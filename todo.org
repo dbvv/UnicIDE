@@ -1,0 +1,28 @@
+[ ] Initial release
+  [ ] integrate code editor
+    [ ] open folder as project
+    [ ] project specific
+    [ ] plugin system
+    [ ] theme select/add/download
+    [ ] connect to remotes repo
+  [ ] menus
+    [ ] file
+      [ ] create
+      [ ] open
+      [ ] delete
+      [ ] save all\close all
+      [ ] rename
+    [ ] edit
+    [ ] select
+    [ ] find and replace
+    [ ] goto
+    [ ] tools
+    [ ] project
+      [ ] create project
+      [ ] delete project
+      [ ] project quick switch
+    [ ] settings
+      [ ] plugins select\update
+      [ ] theme select
+    [ ] sftp\ftp
+      [ ] ftp 
